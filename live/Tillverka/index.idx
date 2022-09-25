@@ -1,4 +1,5 @@
 min_slic3r_version = 2.3.1
+0.0.9 new en5l with sherpa mini
 0.0.8 fix petg temps
 0.0.7 expand to true EN5L volume size and fix flowrate
 0.0.6 fix layer change gcode for relatvive extrusion printers
